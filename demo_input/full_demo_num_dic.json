@@ -1,0 +1,38 @@
+{
+    "age": [
+        17,
+        100
+    ],
+    "campaign": [
+        1,
+        60
+    ],
+    "cons.conf.idx": [
+        -60,
+        60
+    ],
+    "cons.price.idx": [
+        85,
+        100
+    ],
+    "emp.var.rate": [
+        -4,
+        4
+    ],
+    "euribor3m": [
+        0,
+        7
+    ],
+    "nr.employed": [
+        4000,
+        6000
+    ],
+    "pdays": [
+        0,
+        999
+    ],
+    "previous": [
+        0,
+        10
+    ]
+}

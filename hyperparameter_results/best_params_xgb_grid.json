@@ -1,0 +1,11 @@
+{
+    "best_params": {
+        "model__gamma": 0.5,
+        "model__learning_rate": 0.05,
+        "model__max_depth": 9,
+        "model__reg_alpha": 0.1,
+        "model__reg_lambda": 20
+    },
+    "best_score": 0.47837283527039054,
+    "tuning_time_in_sec": 327
+}

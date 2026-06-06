@@ -1,0 +1,8 @@
+{
+    "best_params": {
+        "model__alpha": 0.00018624104383846521,
+        "model__penalty": "l1"
+    },
+    "best_score": 0.453524760591809,
+    "tuning_time_in_sec": 228.18
+}

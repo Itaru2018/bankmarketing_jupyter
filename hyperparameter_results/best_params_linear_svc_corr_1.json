@@ -1,0 +1,16 @@
+{
+    "SVM_corr_SMOTE": {
+        "best_params": {
+            "model__C": 0.002054405406326302
+        },
+        "best_score": 0.4348636653561625,
+        "tuning_time_in_sec": 1148.68
+    },
+    "SVM_corr_balanced": {
+        "best_params": {
+            "model__C": 0.13034218025347039
+        },
+        "best_score": 0.441543029387209,
+        "tuning_time_in_sec": 23586.9
+    }
+}
