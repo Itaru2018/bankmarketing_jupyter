@@ -1,10 +1,18 @@
 {
-    "Logistic Regression_corr_balanced": {
+    "Logistic_Regression_corr_balanced": {
         "best_params": {
             "model__C": 0.0007091609203420063,
             "model__penalty": "l1"
         },
         "best_score": 0.4645606443213633,
-        "tuning_time_in_sec": 808.08
+        "tuning_time_in_sec": 822.88
+    },
+    "Logistic_Regression_corr_SMOTE": {
+        "best_params": {
+            "model__C": 5.272558644492291e-05,
+            "model__penalty": "l2"
+        },
+        "best_score": 0.4587481344921044,
+        "tuning_time_in_sec": 591.5
     }
 }

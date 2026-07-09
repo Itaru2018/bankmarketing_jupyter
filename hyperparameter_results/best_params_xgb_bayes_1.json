@@ -7,5 +7,5 @@
         "model__reg_lambda": 19.839598384078766
     },
     "best_score": 0.4792259118214929,
-    "tuning_time_in_sec": 306.42
+    "tuning_time_in_sec": 272.8
 }

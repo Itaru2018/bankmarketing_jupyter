@@ -1,0 +1,7 @@
+{
+    "best_params": {
+        "model__C": 0.00654229891670982
+    },
+    "best_score": 0.4362583851182249,
+    "tuning_time_in_sec": 606.93
+}
