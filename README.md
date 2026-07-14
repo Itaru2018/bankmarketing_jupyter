@@ -94,4 +94,4 @@ Python · pandas · scikit-learn · imbalanced-learn · XGBoost · scikit-optimi
 ## Author
 
 **Itaru Yasumura** — Basel, Switzerland
-[GitHub](https://github.com/Itaru2018) · `[LinkedIN](https://www.linkedin.com/in/itaru-yasumura-27b05a1b2/)`
+[GitHub](https://github.com/Itaru2018) · [LinkedIN](https://www.linkedin.com/in/itaru-yasumura-27b05a1b2/)
